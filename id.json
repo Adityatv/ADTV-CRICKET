@@ -17,6 +17,14 @@
       "get": "https://dillzycounter.vercel.app/api/get?key=hindi"
     },
     {
+      "id": "hub",
+      "name": "hub",
+      "type": "iframe",
+      "iframeSrc": "https://all-in-one-channel.vercel.app/HUB",
+      "hit": "https://dillzycounter.vercel.app/api/hit?key=hindi",
+      "get": "https://dillzycounter.vercel.app/api/get?key=hindi"
+    },
+    {
       "id": "tnt",
       "name": "TNT Sports",
       "type": "iframe",
@@ -53,7 +61,7 @@
       "id": "prame-hin",
       "name": "Prime Hindi",
       "type": "iframe",
-      "iframeSrc": "https://all-in-one-channel.vercel.app/PRIME/DILLZY/",
+      "iframeSrc": "https://allrounderfuvk.pages.dev/prame-hin",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=prime-hin",
       "get": "https://dillzycounter.vercel.app/api/get?key=prime-hin"
     },
@@ -149,7 +157,7 @@
       "id": "jio-hotstar",
       "name": "Jio Hotstar",
       "type": "iframe",
-      "iframeSrc": "https://allrounderfuvk.pages.dev/dilz?id=Amrit098",
+      "iframeSrc": "https://allrounderfuvk.pages.dev/dilz?id=Toxifhyyy",
       "hit": "https://dillzycounter.vercel.app/api/hit?key=jio-hotstar",
       "get": "https://dillzycounter.vercel.app/api/get?key=jio-hotstar"
     },
