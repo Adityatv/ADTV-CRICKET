@@ -164,7 +164,7 @@
       "id": "jio-hotstar",
       "name": "Jio Hotstar",
       "type": "iframe",
-      "iframeSrc": "https://allrounder-king.pages.dev/hotstar",
+      "iframeSrc": "https://all-video-player-sayan.pages.dev/PLYR.html/?url=https://dillzylive.pages.dev/Hotstar",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=jio-hotstar",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=jio-hotstar"
     },
