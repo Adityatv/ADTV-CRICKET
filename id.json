@@ -4,7 +4,7 @@
       "id": "hindi",
       "name": "Star Sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://allrounder-king.pages.dev/channel/star-sports-1-hindi",
+      "iframeSrc": "https://allrounder-king.pages.dev/channel/star-sports-2-hindi",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=hindi",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=hindi"
     },
@@ -84,7 +84,7 @@
       "id": "prime-eng",
       "name": "Prime English",
       "type": "iframe",
-      "iframeSrc": "https://allrounder-rho.vercel.app/prame.html",
+      "iframeSrc": "https://allrounder-king.pages.dev/prame.html",
       "hit": "https://hit-counter-theta.vercel.app/api/hit?key=prime-eng",
       "get": "https://hit-counter-theta.vercel.app/api/get?key=prime-eng"
     },
